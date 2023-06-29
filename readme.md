@@ -24,7 +24,7 @@ To use this template, follow these steps:
 8. Run `tailwindcss -i src/input.css -o public/output.css --watch` in a terminal to generate the output CSS file and watch for changes in the input file.
 9. Compile your code with `nim js -d:release -o:public/index.js src/app.nim`.
 10. Run `nimhttpd` in the `public` folder to serve your web page locally.
-11. Open a browser on http://localhost:1337
+11. Open a browser on <http://localhost:1337>
 12. Run `nimble production` in a terminal to create a minified version of the generated js code and css for shipping. This will use closure-compiler and clean-css to optimize and compress the output files.
 
 ## Resources
@@ -38,4 +38,8 @@ For more information on how to use Karax and TailwindCSS, check out these links:
 
 ## License
 
-This template is licensed under the MIT License. See [LICENSE.txt](LICENSE.txt) for details.
+You can write the License section of the readme and say you use the Unlicense with the following text:
+
+## License
+
+This project is released under the [Unlicense](https://unlicense.org/), which means you can use, modify, publish, sell, or distribute this software for any purpose, commercial or non-commercial, without any restrictions or obligations. The full text of the Unlicense is in the [LICENSE](LICENSE) file. For more information, please refer to <http://unlicense.org/>.
