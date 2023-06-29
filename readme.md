@@ -38,8 +38,4 @@ For more information on how to use Karax and TailwindCSS, check out these links:
 
 ## License
 
-You can write the License section of the readme and say you use the Unlicense with the following text:
-
-## License
-
 This project is released under the [Unlicense](https://unlicense.org/), which means you can use, modify, publish, sell, or distribute this software for any purpose, commercial or non-commercial, without any restrictions or obligations. The full text of the Unlicense is in the [LICENSE](LICENSE) file. For more information, please refer to <http://unlicense.org/>.
