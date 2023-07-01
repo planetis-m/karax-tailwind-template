@@ -31,7 +31,7 @@ To use this template, follow these steps:
 
 For more information on how to use Karax and TailwindCSS, check out these links:
 
-- [Karax documentation](https://karaxnim.github.io/karax/karax.html)
+- [Karax documentation](https://github.com/karaxnim/karax/blob/master/readme.md)
 - [Karax examples](https://github.com/karaxnim/karax/tree/master/examples)
 - [TailwindCSS documentation](https://tailwindcss.com/docs)
 - [TailwindCSS examples](https://tailwindcss.com/components)
